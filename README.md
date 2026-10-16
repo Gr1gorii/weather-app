@@ -1,5 +1,7 @@
 # Apple Weather Clone
 
+Live demo: [weather-app](https://gr1gorii.github.io/weather-app/)
+
 A weather application built with React, TypeScript, and Vite. The UI is designed to mimic the iOS Weather app using Tailwind CSS.
 
 ## Features
